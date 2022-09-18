@@ -17,7 +17,7 @@
 
 .slide_part .right_slide{
     width: 20%;
-    height:370px;
+    height:375 px;
     display: flex;
     flex-direction: column;
     justify-content:space-evenly;
@@ -85,6 +85,10 @@
     margin-top: 4px;
 }
 
+.products_section .products_items p{
+    font-size: 14px;
+    margin: 5px 0;
+}
 .products_section .products_items{
     margin-top: 10px;
     padding: 10px;
